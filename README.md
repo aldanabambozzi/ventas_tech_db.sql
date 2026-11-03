@@ -1,2 +1,1 @@
-# ventas_tech_db.sql
-Entregable 3
+Pipeline_ETL_Bambozzi_Aldana.pbix
